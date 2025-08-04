@@ -33,4 +33,11 @@ This is a Python web application that provides REST APIs for scraping websites a
     ```bash
    npm run dev
    ```
+## API's
+<img width="1810" height="896" alt="image" src="https://github.com/user-attachments/assets/50f890ee-687c-4da2-b8d9-38dd930ae971" />
+
+## Demo
+<img width="1801" height="954" alt="image" src="https://github.com/user-attachments/assets/a46df362-c56f-424f-ae71-e7cca58f7e91" />
+
+
 
